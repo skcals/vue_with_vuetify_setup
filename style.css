@@ -1,0 +1,7 @@
+.v-navigation-drawer[data-booted="true"] {
+  transition: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.hideNav {
+  margin-left: -300px !important;
+  transition: 0.5s;
+}
